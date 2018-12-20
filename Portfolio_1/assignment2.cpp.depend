@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1544301529 source:c:\users\vig's pc\desktop\soft eng\code\assignment2.cpp\main.cpp
+	<iostream>
+	<conio.h>
+
+1545001635 source:c:\users\vig's pc\desktop\soft eng\code\portfolio_1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
